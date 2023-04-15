@@ -1,0 +1,1 @@
+execute as @a[scores={get_right_clicked=1..}] at @a[scores={get_right_clicked=1..},nbt={SelectedItem:{tag:{CustomModelData:100,MagicWandID:explosion}}}] run function magics:magic/explosion

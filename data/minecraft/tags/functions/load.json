@@ -1,5 +1,6 @@
 {
     "values": [
-        "servers:keizai_revamp/load"
+        "servers:keizai_revamp/load",
+        "magics:setup"
     ]
 }

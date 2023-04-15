@@ -1,5 +1,6 @@
 {
     "values": [
-        "servers:keizai_revamp/tick"
+        "servers:keizai_revamp/tick",
+        "magics:wand_behavior/all"
     ]
 }
